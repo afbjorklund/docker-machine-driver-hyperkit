@@ -1,0 +1,12 @@
+github.com/Azure/go-ansiterm v0.0.0-20170929234023-d6e3b3328b78/go.mod h1:LmzpDX56iTiv29bbRTIsUNlaFfuhWRQBWjQdVyAevI8=
+github.com/cloudflare/cfssl v0.0.0-20180223231731-4e2dcbde5004/go.mod h1:yMWuSON2oQp+43nFtAV/uvKQIFpSPerB57DCt9t8sSA=
+github.com/docker/docker v17.12.0-ce-rc1.0.20180319221241-0c1006f1abc1+incompatible/go.mod h1:eEKB0N0r5NX/I1kEveEz05bcu8tLC/8azJZsviup8Sk=
+github.com/docker/machine v0.14.0/go.mod h1:I8mPNDeK1uH+JTcUU7X0ZW8KiYz0jyAgNaeSJ1rCfDI=
+github.com/johanneswuerbach/nfsexports v0.0.0-20151229182559-a9068f3f0daa/go.mod h1:+c1/kUpg2zlkoWqTOvzDs36Wpbm3Gd1nlmtXAEB0WGU=
+github.com/mitchellh/go-ps v0.0.0-20170309133038-4fdf99ab2936/go.mod h1:r1VsdOzOPt1ZSrGZWFoNhsAedKnEd6r9Np1+5blZCWk=
+github.com/moby/hyperkit v0.0.0-20171204115932-858492e3d919/go.mod h1:zGAVB/FkAf4ozkR8CCuj4LcVuErrNsj9APTDFvhOckw=
+github.com/pkg/errors v0.8.0/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/sirupsen/logrus v1.0.5/go.mod h1:pMByvHTf9Beacp5x1UXfOR9xyW/9antXMhjMPG0dEzc=
+github.com/zchee/go-vmnet v0.0.0-20161021174912-97ebf9174097/go.mod h1:lFZSWRIpCfE/pt91hHBBpV6+x87YlCjsp+aIR2qCPPU=
+golang.org/x/crypto v0.0.0-20180226093711-beaf6a35706e/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
+golang.org/x/sys v0.0.0-20180224232135-f6cff0780e54/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
