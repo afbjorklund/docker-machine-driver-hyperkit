@@ -3,8 +3,8 @@ github.com/cloudflare/cfssl v0.0.0-20180223231731-4e2dcbde5004 h1:lkAMpLVBDaj17e
 github.com/cloudflare/cfssl v0.0.0-20180223231731-4e2dcbde5004/go.mod h1:yMWuSON2oQp+43nFtAV/uvKQIFpSPerB57DCt9t8sSA=
 github.com/docker/docker v17.12.0-ce-rc1.0.20180319221241-0c1006f1abc1+incompatible h1:Cg50zJJiSYm/M1mtf7pAM8rtu8rv6Vvlhc6SEVELy40=
 github.com/docker/docker v17.12.0-ce-rc1.0.20180319221241-0c1006f1abc1+incompatible/go.mod h1:eEKB0N0r5NX/I1kEveEz05bcu8tLC/8azJZsviup8Sk=
-github.com/docker/machine v0.14.0 h1:7zMwMAz0XbL27Q4NPqtW7I0wuhOaGFpq5WfvrUfZROM=
-github.com/docker/machine v0.14.0/go.mod h1:I8mPNDeK1uH+JTcUU7X0ZW8KiYz0jyAgNaeSJ1rCfDI=
+github.com/docker/machine v0.16.2 h1:jyF9k3Zg+oIGxxSdYKPScyj3HqFZ6FjgA/3sblcASiU=
+github.com/docker/machine v0.16.2/go.mod h1:I8mPNDeK1uH+JTcUU7X0ZW8KiYz0jyAgNaeSJ1rCfDI=
 github.com/johanneswuerbach/nfsexports v0.0.0-20151229182559-a9068f3f0daa/go.mod h1:+c1/kUpg2zlkoWqTOvzDs36Wpbm3Gd1nlmtXAEB0WGU=
 github.com/mitchellh/go-ps v0.0.0-20170309133038-4fdf99ab2936/go.mod h1:r1VsdOzOPt1ZSrGZWFoNhsAedKnEd6r9Np1+5blZCWk=
 github.com/moby/hyperkit v0.0.0-20171204115932-858492e3d919/go.mod h1:zGAVB/FkAf4ozkR8CCuj4LcVuErrNsj9APTDFvhOckw=

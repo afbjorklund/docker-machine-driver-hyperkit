@@ -6,7 +6,7 @@ require (
 	github.com/Azure/go-ansiterm v0.0.0-20170929234023-d6e3b3328b78 // indirect
 	github.com/cloudflare/cfssl v0.0.0-20180223231731-4e2dcbde5004
 	github.com/docker/docker v17.12.0-ce-rc1.0.20180319221241-0c1006f1abc1+incompatible // indirect
-	github.com/docker/machine v0.14.0
+	github.com/docker/machine v0.16.2
 	github.com/johanneswuerbach/nfsexports v0.0.0-20151229182559-a9068f3f0daa
 	github.com/mitchellh/go-ps v0.0.0-20170309133038-4fdf99ab2936 // indirect
 	github.com/moby/hyperkit v0.0.0-20171204115932-858492e3d919
