@@ -25,6 +25,11 @@ import (
 	"github.com/docker/machine/libmachine/log"
 	"bufio"
 	"fmt"
+	"regexp"
+)
+
+var (
+        kernelOptionRegexp = regexp.MustCompile(`(?:\t|\s{2})append\s+([[:print:]]+)`)
 )
 
 type RetriableError struct {

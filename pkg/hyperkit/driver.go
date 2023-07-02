@@ -52,7 +52,6 @@ const (
 
 var (
 	kernelRegexp       = regexp.MustCompile(`(vmlinu[xz]|bzImage)[\d]*`)
-	kernelOptionRegexp = regexp.MustCompile(`(?:\t|\s{2})append\s+([[:print:]]+)`)
 )
 
 type Driver struct {
